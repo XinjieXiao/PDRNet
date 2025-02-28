@@ -6,7 +6,7 @@ This is the official repository  of the paper: *Nighttime Image Dehazing via A P
 
 ## Usage
 
-The code will be released soon. Please feel free to contact  [Xinjie Xiao:Email](caelum@stu.scau.edu.cn).
+The code will be released soon. Please feel free to contact Xinjie Xiao with Email: caelum@stu.scau.edu.cn.
 
 We recommend using the [**Anaconda**](https://www.anaconda.com/) package manager to avoid dependency/reproducibility problems. 
 
